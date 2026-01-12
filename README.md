@@ -75,5 +75,4 @@ Bu proje, sokak hayvanlarının beslenme, barınma ve tedavi ihtiyaçlarının k
 ## 6. Proje Demo Videosu
 Uygulamanın temel özelliklerini ve genel işleyişini görmek için aşağıdaki demo videosunu izleyebilirsiniz:
 
-https://github.com/user-attachments/assets/7c382c21-564a-468b-a6e3-7980ae01cbc1
-](https://github.com/user-attachments/assets/84f14ee7-ca9f-4a05-a472-22ca99e3696d)
+https://github.com/user-attachments/assets/82b409f4-7b1d-437e-ac74-34d33ea13b14
