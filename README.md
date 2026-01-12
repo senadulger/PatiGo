@@ -20,7 +20,6 @@ Bu proje, sokak hayvanlarının beslenme, barınma ve tedavi ihtiyaçlarının k
 | :--- | :--- | :--- |
 | **Frontend** | HTML5 / CSS3 | Kullanıcı arayüzü yapısı ve stilizasyonu |
 | | JavaScript | Dinamik arayüz etkileşimleri ve harita yönetimi |
-| | Bootstrap | (Eğer kullanıldıysa) Responsive tasarım kütüphanesi |
 | **Backend** | Python 3.9+ | Ana programlama dili |
 | | Django 4.2+ | Web framework ve ORM |
 | | Geopy | Konum ve harita servisleri için kütüphane |
