@@ -61,7 +61,7 @@ Bu proje, sokak hayvanlarının beslenme, barınma ve tedavi ihtiyaçlarının k
     pip install -r requirements.txt
     ```
 
-4.  **Veritabanı Migrasyonlarını Uygulayın:**
+4.  **Veritabanı Migrasyonlarını Uygulayın:** 
     ```bash
     python manage.py migrate
     ```
